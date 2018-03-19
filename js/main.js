@@ -27,7 +27,7 @@ function startTime() {
   }
   else if (h == 9){
     document.getElementById('background').style.backgroundImage= "url('alarm-clock-1191561_1920.jpg')"; //wakey wakey
-    document.getElementById("demo").innerHTML = "Het is nu tijd om op te staan";
+    document.getElementById("demo").innerHTML = "Tijd om op te staan!";
 
   }
   else if (h == 19){
@@ -36,7 +36,7 @@ function startTime() {
   }
   else {
     document.getElementById('background').style.backgroundImage= "url('red-planet-571902_1920.jpg')"; //al het overige
-    document.getElementById("demo").innerHTML = "Hallo";
+    document.getElementById("demo").innerHTML = "Have a nice day!";
   }
 
 
