@@ -36,7 +36,7 @@ function startTime() {
   }
   else {
     document.getElementById('background').style.backgroundImage= "url('red-planet-571902_1920.jpg')"; //al het overige
-    document.getElementById("demo").innerHTML = "Een prettige dag toegewenst ";
+    document.getElementById("demo").innerHTML = "Hallo";
   }
 
 
